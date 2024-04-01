@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on spring and algorithms
+- 🔭 I’m currently working on 
   <br>✨ ![Static Badge](https://img.shields.io/badge/spring-3178C6)
-  <br>✨ ![Static Badge](https://img.shields.io/badge/spring-3177F6)
+  <br>✨ ![Static Badge](https://img.shields.io/badge/algorithm-3977F6)
 - 📫 How to reach me: ...
